@@ -1,0 +1,11 @@
+.line{
+    width:200px;
+    height: 8px;
+     background-color: crimson;
+     margin:auto
+}
+ body{
+    background:linear-gradient(rgba(238, 238, 116, 0.87),rgb(98, 227, 152));
+    text-align: center;
+    
+} 
